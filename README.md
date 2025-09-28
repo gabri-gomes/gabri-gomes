@@ -1,8 +1,13 @@
-# 👋 Hey there, I'm Gabriel
+<!-- Banner (podes criar no Canva ou usar um gerador de banners para GitHub) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Gabriel%20|%20Computer%20Vision%20&%20Software%20Development&fontSize=30&fontColor=ffffff" alt="banner"/>
+</p>
 
-🌱 Currently exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
-💡 Passionate about learning, experimenting, and building small but meaningful projects.  
-🚀 Always curious about how things work under the hood.  
+# Hey there, I'm Gabriel
+
+Currently exploring **Computer Vision**, **Software Development**, and **Algorithms**  
+Passionate about learning, experimenting, and building meaningful projects  
+Always curious about how things work under the hood  
 
 ---
 
@@ -14,9 +19,11 @@
 ---
 
 ### 📂 Featured Projects
-- ☁️ **Simple Cloud Application** – small-scale cloud experiment  
-- ⚙️ **Java Compiler** – compiler built from scratch  
-- 🔗 **Client-Server in Java** – networking fundamentals in practice  
+- **Simple Cloud Application** – small-scale cloud experiment  
+- **Java Compiler** – compiler built from scratch  
+- **Client-Server in Java** – networking fundamentals in practice  
+
+---
 
 (You can check more on my [repositories](https://github.com/gabri-gomes)!)
 
@@ -36,4 +43,3 @@
 
 ---
 
-✨ *"Code, Learn, Repeat."*
