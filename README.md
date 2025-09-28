@@ -31,8 +31,8 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)  
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:YourEmail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel1-gomes2-gg3/)  
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:gabriel.cf.gomes@gmail.com)  
 
 ---
 
