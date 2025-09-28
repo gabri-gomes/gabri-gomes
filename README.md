@@ -18,7 +18,7 @@
 - ⚙️ **Java Compiler** – compiler built from scratch  
 - 🔗 **Client-Server in Java** – networking fundamentals in practice  
 
-(You can check more on my [repositories](https://github.com/YourGitHubUsername)!)
+(You can check more on my [repositories](https://github.com/gabri-gomes)!)
 
 ---
 
