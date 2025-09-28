@@ -6,7 +6,7 @@ Always curious about how things work under the hood.
 Right now, I’m working on small projects to get better in the areas I’m most passionate about
 I learn best by building.  
 
-
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabri-gomes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri-gomes&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
