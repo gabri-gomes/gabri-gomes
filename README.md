@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Gabriel
 
 🌱 Currently exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
 💡 Passionate about learning, experimenting, and building small but meaningful projects.  
