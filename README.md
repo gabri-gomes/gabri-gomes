@@ -1,9 +1,7 @@
 
 I'm exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
 Always curious about how things work under the hood.  
-Right now, I’m working on small projects to get better in the areas I’m most passionate about
-I learn best by building.  
-
+Right now, I’m working on small projects to become more fluent in the areas I enjoy most.
 
 ---
 <p align="center">
