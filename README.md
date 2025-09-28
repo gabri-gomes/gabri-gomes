@@ -1,7 +1,8 @@
 <!-- Banner (podes criar no Canva ou usar um gerador de banners para GitHub) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Gabriel%20|%20Computer%20Vision%20%26%20Software%20Development&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Gabriel%20|%20🤖💻%20Computer%20Vision%20&%20Software%20Development&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
+
 
 
 # Hey there, I'm Gabriel
