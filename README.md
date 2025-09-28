@@ -11,6 +11,11 @@ Right now, I’m working on small projects to become more fluent in the areas I 
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukh9V6y3M6hCM/giphy.gif" width="120" style="margin-bottom: 10px;" />
+</p>
+
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel1-gomes2-gg3/)  
 [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:gabriel.cf.gomes@gmail.com)  
