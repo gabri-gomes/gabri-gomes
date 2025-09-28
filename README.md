@@ -1,10 +1,3 @@
-<!-- Banner (podes criar no Canva ou usar um gerador de banners para GitHub) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&fontColor=ffffff&animation=fadeIn" alt="banner"/>
-</p>
-
-
-
 
 # Hey there, I'm Gabriel
 
