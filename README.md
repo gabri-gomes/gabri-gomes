@@ -1,13 +1,16 @@
 <!-- Banner (podes criar no Canva ou usar um gerador de banners para GitHub) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Gabriel%20|%20Computer%20Vision%20&%20Software%20Development&fontSize=30&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Gabriel%20|%20Computer%20Vision%20%26%20Software%20Development&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
+
 
 # Hey there, I'm Gabriel
 
-Currently exploring **Computer Vision**, **Software Development**, and **Algorithms**  
-Passionate about learning, experimenting, and building meaningful projects  
-Always curious about how things work under the hood  
+I'm exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
+Always curious about how things work under the hood.  
+Right now, I’m working on small projects to get better in the areas I’m most passionate about
+I learn best by building.  
+
 
 ---
 
