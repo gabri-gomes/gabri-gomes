@@ -3,10 +3,6 @@ I'm exploring **Computer Vision**, **Software Development**, and **Algorithms**.
 Always curious about how things work under the hood.  
 Right now, I’m working on small projects to become more fluent in the areas I enjoy most.
 
-<p align="right">
-  <img src="https://media.giphy.com/media/26xBukh9V6y3M6hCM/giphy.gif" width="120" style="margin-top: 10px; margin-right: 20px;" />
-</p>
-
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabri-gomes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
