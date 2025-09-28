@@ -7,27 +7,6 @@ Right now, I’m working on small projects to get better in the areas I’m most
 I learn best by building.  
 
 
----
-
-### 🛠️ Tech Interests
-- **Computer Vision** → OpenCV, image processing basics  
-- **Algorithms & Data Structures** → currently learning on Coursera  
-- **Software Development** → Java, Python, simple cloud apps, client-server systems  
-
----
-
-### 📂 Featured Projects
-- **Simple Cloud Application** – small-scale cloud experiment  
-- **Java Compiler** – compiler built from scratch  
-- **Client-Server in Java** – networking fundamentals in practice  
-
----
-
-(You can check more on my [repositories](https://github.com/gabri-gomes)!)
-
----
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabri-gomes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri-gomes&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
