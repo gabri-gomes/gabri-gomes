@@ -1,5 +1,5 @@
 
-# Hey there, I'm Gabriel
+# Gabriel Gomes
 
 I'm exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
 Always curious about how things work under the hood.  
