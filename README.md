@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey there, I'm [Your Name]
 
-<!--
-**gabri-gomes/gabri-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring **Computer Vision**, **Software Development**, and **Algorithms**.  
+💡 Passionate about learning, experimenting, and building small but meaningful projects.  
+🚀 Always curious about how things work under the hood.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Interests
+- **Computer Vision** → OpenCV, image processing basics  
+- **Algorithms & Data Structures** → currently learning on Coursera  
+- **Software Development** → Java, Python, simple cloud apps, client-server systems  
+
+---
+
+### 📂 Featured Projects
+- ☁️ **Simple Cloud Application** – small-scale cloud experiment  
+- ⚙️ **Java Compiler** – compiler built from scratch  
+- 🔗 **Client-Server in Java** – networking fundamentals in practice  
+
+(You can check more on my [repositories](https://github.com/YourGitHubUsername)!)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)  
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:YourEmail@example.com)  
+
+---
+
+✨ *"Code, Learn, Repeat."*
